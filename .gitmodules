@@ -1,0 +1,3 @@
+[submodule "file-upload-react"]
+	path = file-upload-react
+	url = git@github-yu:YSHgroup/file-upload-react.git

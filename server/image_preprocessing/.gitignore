@@ -1,0 +1,6 @@
+/output
+*.log
+dist
+node_modules
+.venv
+
