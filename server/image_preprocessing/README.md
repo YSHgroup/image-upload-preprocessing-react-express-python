@@ -18,7 +18,7 @@
 - The code is well-optimized and easy to maintain.
 - The code is well-designed and easy to maintain.
 
-## Installation
+## Installation and run
 ```
   pip install opencv-python
   pip install pytesseract
